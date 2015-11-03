@@ -13,4 +13,9 @@ repository.
 
 3. You can use the staging area to only add files that you
 changed to the commit, making sure that it is one commit
-per logical change 
+per logical change.
+
+4. In our GNOME Music Player project if we try to fix a bug
+or add a new feature but we didn't want to risk breaking 
+the previous version of the code we could create our own 
+branch to fix the bug on. 
