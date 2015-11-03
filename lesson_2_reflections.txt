@@ -1,4 +1,12 @@
 1. When you initialize a repository a .git directory
 is created in the parent directory. You need to do this
 because this allows the files in the repository to be 
-tracked together to keep the project together. 
+tracked together to keep the project together.
+
+2. The staging area is different from the working directory
+in that files from the working directory are added to the 
+staging area.  It is different from the repository in that
+files that are added to the staging area are bundled into 
+one commit. This allows the user to only add the files 
+they want from the working directory to the commit in the
+repository. 
