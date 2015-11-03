@@ -24,3 +24,9 @@ branch to fix the bug on.
 on the branch and what the relationship between different 
 commits is. They also clearly show the concept of 
 reachability which is helpful when visualized. 
+
+6. When you merge two branches together all the commits in 
+both branches get a common parent commit. This makes the 
+commits of both branches reachable from that parent commit.
+We represent it in the diagram the way we do because it shows
+us how the two branches are connected by a common commit.
