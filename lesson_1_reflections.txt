@@ -1,0 +1,39 @@
+1. By viewing the output of the diff command between 
+the two different files I was able to notice
+that a line that had been added had a typo 
+for "space" and so it wasn't working properly.
+I was able to see that this was what was causing
+the bug to happen.
+
+2. Being able to easily access the entire history of 
+a file would make it much easier to spot the 
+differences between the two that could lead to bugs
+and then fix the bugs, rather than combing through
+the entire new problem looking for one small typo.
+
+3. If you manually choose when to create a commit,
+you can ensure that the version you're creating
+actually works and won't end at an abrupt or incorrect
+ending. You can make sure that the versions actually
+make sense.
+
+4. Because with coding, projects will often have 
+interrelated files that depend on one another and 
+thus need to be saved and tracked together. However,
+it is highly unlikely that two Google Docs will be
+related enough to require them to be saved together.
+
+5. Using git log I can tell what overall changes I 
+made and when I made them and using git diff I can 
+tell what exactly I changed in the code between the 
+commits.
+
+6. Because I can always be confident that I can go back
+and checkout versions of the code I already had and 
+restore them so I don't break anything.
+
+7. Kofi and I were looking at working on the GNOME Project
+and in particular their Music app so using git and github
+will be essential in managing the versions of the app that
+are already created and the different versions that we will
+hopefully end up creating.
