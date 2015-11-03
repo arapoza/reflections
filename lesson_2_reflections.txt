@@ -9,4 +9,8 @@ staging area.  It is different from the repository in that
 files that are added to the staging area are bundled into 
 one commit. This allows the user to only add the files 
 they want from the working directory to the commit in the
-repository. 
+repository.
+
+3. You can use the staging area to only add files that you
+changed to the commit, making sure that it is one commit
+per logical change 
