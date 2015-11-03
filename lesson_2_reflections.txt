@@ -30,3 +30,10 @@ both branches get a common parent commit. This makes the
 commits of both branches reachable from that parent commit.
 We represent it in the diagram the way we do because it shows
 us how the two branches are connected by a common commit.
+
+7. By allowing some mergings to be done automatically, git
+makes life easier and more convenient for small changes of
+code. However, for large changes, you have to resolve conflicts
+yourself which can be a little frustrating. If you always had to
+do merges manually it would probably take a lot of time and 
+effort as opposed to git doing it automatically.
