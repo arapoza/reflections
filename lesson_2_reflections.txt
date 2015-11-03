@@ -1,1 +1,4 @@
-1. 
+1. When you initialize a repository a .git directory
+is created in the parent directory. You need to do this
+because this allows the files in the repository to be 
+tracked together to keep the project together. 
