@@ -18,4 +18,9 @@ per logical change.
 4. In our GNOME Music Player project if we try to fix a bug
 or add a new feature but we didn't want to risk breaking 
 the previous version of the code we could create our own 
-branch to fix the bug on. 
+branch to fix the bug on.
+
+5. Diagrams help by showing where different commits lie
+on the branch and what the relationship between different 
+commits is. They also clearly show the concept of 
+reachability which is helpful when visualized. 
