@@ -2,4 +2,10 @@
 are working with other people. If everything is local
 your collaborators won't be able to see your changes 
 and you won't be able to see theirs so it is best to 
-work from a remote repository
+work from a remote repository.
+
+2. You might want to always pull changes automatically
+rather than automatically for the same reason you commit
+manually. You might have made a change on either the remote
+or the local directory that you don't want to be present
+on the other, so you have to wait to mannually push or pull.
