@@ -25,3 +25,9 @@ save the files of my coding project. We would be able to share
 the same files, but any changes would not be able to be seen
 and conflicts could be very easily created with two people
 working on the same file at the same time.
+
+6. I would want to make changes in a separate branch when I have
+a change I want to make but am not sure if it is ok with the 
+other people I'm working with. This is a little less convenient,
+but using this method makes sure that everyone involved in the 
+project is on the same page and knows what changes are being made.
