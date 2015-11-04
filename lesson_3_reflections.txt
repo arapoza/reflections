@@ -15,3 +15,7 @@ to a local machine or on a local machine. A fork is a copy
 of a repository that is hosted on GitHub and can be cloned
 onto a user's computer. A branch is a different set of commits
 that are in the repo.
+
+4. With the copy of the last known state of the remote stored 
+locally it makes it much easier to resolve and merge conflicts
+when there are changes both to the remote and the local directory. 
