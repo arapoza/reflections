@@ -18,4 +18,10 @@ that are in the repo.
 
 4. With the copy of the last known state of the remote stored 
 locally it makes it much easier to resolve and merge conflicts
-when there are changes both to the remote and the local directory. 
+when there are changes both to the remote and the local directory.
+
+5. Without using Git or GitHub I would probably use Dropbox to
+save the files of my coding project. We would be able to share
+the same files, but any changes would not be able to be seen
+and conflicts could be very easily created with two people
+working on the same file at the same time.
