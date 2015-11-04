@@ -1,0 +1,5 @@
+1. You would want to use a remote repository when you
+are working with other people. If everything is local
+your collaborators won't be able to see your changes 
+and you won't be able to see theirs so it is best to 
+work from a remote repository
