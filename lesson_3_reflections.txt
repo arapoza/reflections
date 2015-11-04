@@ -9,3 +9,9 @@ rather than automatically for the same reason you commit
 manually. You might have made a change on either the remote
 or the local directory that you don't want to be present
 on the other, so you have to wait to mannually push or pull.
+
+3. A clone is a copy of a repository made either from GitHub
+to a local machine or on a local machine. A fork is a copy
+of a repository that is hosted on GitHub and can be cloned
+onto a user's computer. A branch is a different set of commits
+that are in the repo.
